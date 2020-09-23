@@ -1,0 +1,14 @@
+.h {
+    text-size-adjust: 10px;
+}
+.buttons {
+    text-align: center;
+}
+button {
+    background-color: white;
+    border: none;
+    font-size: large;
+    border: 1px solid black;
+    border-radius: 6px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.0), 0 6px 20px 0 rgba(0,0,0,0.20);
+}
